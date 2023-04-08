@@ -1,4 +1,5 @@
 #About
+
 The Adatong cashier program is a program aimed at UMKM in Indonesia,
 especially in selling chicken restaurants. The program consists of inputting material stock, sales, payments,
 transaction history and customer data. The features in this program use the bubble sort algorithm in sorting, 
