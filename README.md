@@ -12,6 +12,7 @@ at Andalas University with supporting lecturers Prof. Surya Afnarius, M.Sc, Ph.D
 C++, Borland Delphi C++ 6
 
 ## GUI Project
-
+This image is taken using [community visualizer](https://entelect-replay.raezor.co.za/)
+![image](tugas besar GUI.jpg)
 
 ## How to Use
