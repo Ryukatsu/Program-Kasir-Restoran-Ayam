@@ -1,17 +1,39 @@
-## About
+# Aplikasi Kasir
 
+## About Progama
 The Adatong cashier program is a program aimed at UMKM in Indonesia,
 especially in selling chicken restaurants. The program consists of inputting material stock, sales, payments,
-transaction history and customer data. The features in this program use the bubble sort algorithm in sorting, 
-and use sequential search in searching. This program only uses static array data structures and primitive data types. 
-This program is made using the C++ language and uses the Borland Delphi 6 C++ GUI for its IDE. This program is 
-a major assignment from the Basic Programming course based on Graphical User Interface (GUI) in Systems information 
-at Andalas University with supporting lecturers Prof. Surya Afnarius, M.Sc, Ph.D.
+transaction history and customer data. This program is a major assignment from the Basic Programming course based on Graphical User Interface (GUI) in Systems information 
+at Andalas University with supporting lecturers [Prof. Surya Afnarius, M.Sc, Ph.D](https://www.linkedin.com/in/surya-afnarius-19465120/)
+
+
+## Features
+- Basic math operators
+- The bubble sort algorithm
+- The sequential search algorithm
+- Static array data structures and primitive data types
+- Graphical User Interface
 
 ## Tech
-C++, Borland Delphi C++ 6
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Borland Builder 6](https://img.shields.io/badge/Borland-C++-%2300599C.svg?style=for-the-badge&logo=Borland6%2B%2B&logoColor=white)
 
-## GUI Project
+## Requirement
+- Borland C Builder 6.0 
+- C++
+
+## Demo Program
+See on my [Youtube](https://www.youtube.com/watch?v=8Vwq3ueC_Bg&t=1774s)
+
+
+
 ![image](https://github.com/Ryukatsu/Program-Kasir-Restoran-Ayam/blob/7c69b970bd1eb21bff18cddfd5b980664095452c/tugas%20besar%20GUI.jpg)
 
 ## How to Use
+### Instalation
+Instal Aplikasi Borland Builder 6 di komputer anda, dengan mengikuti langkang di [youtube](https://www.youtube.com/watch?v=_NW6LbbGVfc) ini
+
+
+
+
+
