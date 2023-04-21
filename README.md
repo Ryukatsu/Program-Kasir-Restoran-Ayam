@@ -31,7 +31,15 @@ See on my [Youtube](https://www.youtube.com/watch?v=8Vwq3ueC_Bg&t=1774s)
 
 ## How to Use
 ### Instalation
-Instal Aplikasi Borland Builder 6 di komputer anda, dengan mengikuti langkang di [youtube](https://www.youtube.com/watch?v=_NW6LbbGVfc) ini
+-Install the Borland Builder 6 application on your computer, by following the steps on this  [youtube](https://www.youtube.com/watch?v=_NW6LbbGVfc) 
+-After installing clone this repository app by downloading zip then extract zip and run file :
+```
+project1.bcr
+```
+or you can directly run the application without installing the Borland IDE, run file :
+```
+project1.exe
+```
 
 
 
