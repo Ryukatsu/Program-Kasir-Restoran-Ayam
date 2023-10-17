@@ -1,6 +1,6 @@
-# Aplikasi Kasir
+# Chasier Program
 
-## About Progama
+## About Progam
 The Adatong cashier program is a program aimed at UMKM in Indonesia,
 especially in selling chicken restaurants. The program consists of inputting material stock, sales, payments,
 transaction history and customer data. This program is a major assignment from the Basic Programming course based on Graphical User Interface (GUI) in Systems information 
@@ -14,7 +14,7 @@ at Andalas University with supporting lecturers [Prof. Surya Afnarius, M.Sc, Ph.
 - Static array data structures and primitive data types
 - Graphical User Interface
 
-## Tech
+## Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Borland Builder 6](https://img.shields.io/badge/Borland-C++-%2300599C.svg?style=for-the-badge&logo=Borland6%2B%2B&logoColor=white)
 
